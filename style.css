@@ -1,28 +1,28 @@
-body { background-color:lightgrey; }
+body { background-color: lightgrey; }
 
 .heading {
-  background-color:lightslategrey;
+  background-color: lightslategrey;
 }
 
 .paragraph {
   font-size: 20px;
-  color:darkslategrey;
+  color: darkslategrey;
   text-align: center;
 }
 
 .paragraph1 {
   font-size: 20px;
-  color:darkslategrey;
+  color: darkslategrey;
   margin: 25px 25px 30px 25px;
 }
 
 .paragraph2 {
   font-size: 20px;
-  color:darkslategrey;
+  color: darkslategrey;
 }
 
 .img {
-  padding: 0px 0px 0px 500px;
+  padding: 1px 1px 1px 500px;
 }
 
 .img2 {
