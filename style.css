@@ -7,6 +7,7 @@ body { background-color:lightgrey; }
 .paragraph {
   font-size: 20px;
   color:darkslategrey;
+  text-align: center;
 }
 
 .paragraph1 {
@@ -26,5 +27,8 @@ body { background-color:lightgrey; }
 
 .img2 {
   border: 5px solid darkslategrey;
-  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
