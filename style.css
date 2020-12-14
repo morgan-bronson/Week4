@@ -1,8 +1,9 @@
-#paragraph {
+.paragraph {
   font-size: 20px;
+  color:darkslategrey;
 }
 
-#paragraph1 {
+.paragraph1 {
   font-size: 20px;
   color:darkslategrey;
 }
