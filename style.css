@@ -1,3 +1,7 @@
+.heading {
+  background-color:lightslategrey;
+}
+
 .paragraph {
   font-size: 20px;
   color:darkslategrey;
@@ -8,6 +12,7 @@
   color:darkslategrey;
 }
 
-.heading {
-  background-color: gainsboro;
+.paragraph2 {
+  font-size: 20px;
+  color:darkslategrey;
 }
