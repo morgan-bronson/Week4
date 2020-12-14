@@ -33,7 +33,8 @@ body { background-color: lightgrey; }
   width: 50%;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   background-color: slategrey;
   color: white;
   padding: 14px 25px;
@@ -42,6 +43,7 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   background-color: slategrey;
 }
